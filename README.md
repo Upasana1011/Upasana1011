@@ -10,9 +10,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Upasana</h1>
-<h3 align="center">A passionate Full Stack Web Developer </h3>
-
+<h3 align="center">A passionate Full Stack Web Developer from India </h3>
+<div style="width:200px" >
+<p align="left" > </p>
  <p align="right" ><img height="350px" src="https://ebullient.in/wp-content/uploads/2020/07/contact-us-woman-with-headphones-microphone-with-computer_113065-280-600x600.jpg"/></p>
+  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upasana1011&label=Profile%20views&color=0e75b6&style=flat" alt="upasana1011" /> </p>
 
@@ -26,7 +28,7 @@
 
 - 📫 How to reach me **upasanakuar44@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE0p8ZwBYs/RZkvhqiWbuwp3G8Eji8I0A/edit#](https://www.canva.com/design/DAE0p8ZwBYs/RZkvhqiWbuwp3G8Eji8I0A/edit#)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Pv0cMVgWM6KPu_J7BGvzqH1DhYSGWYTh/view?usp=drivesdk](https://drive.google.com/file/d/1Pv0cMVgWM6KPu_J7BGvzqH1DhYSGWYTh/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
