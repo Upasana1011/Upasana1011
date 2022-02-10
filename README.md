@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **upasanakuar44@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pv0cMVgWM6KPu_J7BGvzqH1DhYSGWYTh/view?usp=drivesdk](https://drive.google.com/file/d/1Pv0cMVgWM6KPu_J7BGvzqH1DhYSGWYTh/view?usp=drivesdk)
+- 📄 Know about my experiences [https://myresume.com](https://drive.google.com/file/d/1Pv0cMVgWM6KPu_J7BGvzqH1DhYSGWYTh/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
