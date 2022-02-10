@@ -11,10 +11,17 @@
 
 <h1 align="center">Hi 👋, I'm Upasana</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India </h3>
-<div style="width:200px" >
-<p align="left" > </p>
- <p align="right" ><img height="350px" src="https://ebullient.in/wp-content/uploads/2020/07/contact-us-woman-with-headphones-microphone-with-computer_113065-280-600x600.jpg"/></p>
-  </div>
+
+
+<table>
+  <tr vorder="none">
+<td> Enthusiastic and aspiring full-stack developer with a specialisation in MERN stack. 👩‍🎓 </p>
+ With a keen interest in problem solving, building creativity and web development. A self motivated and curious person interested in new technology.
+ </td>
+  <td align="right" ><img height="350px" width="600px" src="https://ebullient.in/wp-content/uploads/2020/07/contact-us-woman-with-headphones-microphone-with-computer_113065-280-600x600.jpg"/></td>
+  </tr>
+  </table>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upasana1011&label=Profile%20views&color=0e75b6&style=flat" alt="upasana1011" /> </p>
 
