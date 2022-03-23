@@ -31,11 +31,11 @@
 
 - 👨‍💻 All of my projects are available at [https://upasana-kuar-protfolio.netlify.com](https://upasana-kuar-protfolio.netlify.com)
 
-- 💬 Ask me about **HTML,CSS,JS,MongoDB,Node.Js,Express.Js,React**
+- 💬 Ask me about **HTML,CSS,JS,MongoDB,Node.Js,Express.Js,React,Redux**
 
 - 📫 How to reach me **upasanakuar44@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pv0cMVgWM6KPu_J7BGvzqH1DhYSGWYTh/view?usp=drivesdk](https://drive.google.com/file/d/1Pv0cMVgWM6KPu_J7BGvzqH1DhYSGWYTh/view?usp=drivesdk)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
