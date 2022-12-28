@@ -29,7 +29,8 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://upasana-kuar-protfolio.netlify.com](https://upasana-kuar-protfolio.netlify.com)
+- 👨‍💻 All of my projects are available at [https://upasana-kuar-protfolio.netlify.com]
+<!-- - (https://upasana-kuar-protfolio.netlify.com) -->
 
 - 💬 Ask me about **HTML,CSS,JS,MongoDB,Node.Js,Express.Js,React,Redux**
 
